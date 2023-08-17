@@ -1,0 +1,35 @@
+C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar\release\BrowseInfo\flash_config\flash_config.pbi: \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\flash_config\flash_config.c \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\flash_config/flash_config.h \
+  C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\inc\c\stdint.h \
+  C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\inc\c\ycheck.h \
+  C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\inc\c\yvals.h \
+  C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\inc\c\DLib_Defaults.h \
+  C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\inc\c\DLib_Config_Normal.h \
+  C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\inc\c\DLib_Product.h \
+  C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\inc\c\stdbool.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/../../../../../devices/MIMXRT685S/drivers\fsl_common.h \
+  C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\inc\c\assert.h \
+  C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\inc\c\string.h \
+  C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\inc\c\ysizet.h \
+  C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\inc\c\DLib_Product_string.h \
+  C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\inc\c\stdlib.h \
+  C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\inc\c\DLib_Product_stdlib.h \
+  C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\inc\c\stddef.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/../../../../../devices/MIMXRT685S\fsl_device_registers.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/../../../../../devices/MIMXRT685S/MIMXRT685S_cm33.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/../../../../../CMSIS/Include\core_cm33.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/../../../../../CMSIS/Include/cmsis_version.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/../../../../../CMSIS/Include/cmsis_compiler.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/../../../../../CMSIS/Include\cmsis_iccarm.h \
+  C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\inc\c\aarch32\iccarm_builtin.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/../../../../../CMSIS/Include/mpu_armv8.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/../../../../../devices/MIMXRT685S/system_MIMXRT685S_cm33.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/../../../../../devices/MIMXRT685S/MIMXRT685S_cm33_features.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/../../../../../devices/MIMXRT685S/drivers/fsl_clock.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/../../../../../devices/MIMXRT685S/drivers/fsl_reset.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/../../../../../devices/MIMXRT685S/drivers/fsl_common.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/..\board.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/../clock_config.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/../../../../../devices/MIMXRT685S/drivers\fsl_reset.h \
+  C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar/../../../../../devices/MIMXRT685S/drivers\fsl_gpio.h

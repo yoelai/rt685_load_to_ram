@@ -1,0 +1,1986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>4279209558</fileChecksum>
+    <configuration>
+        <name>debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_usart.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_common.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_common.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_clock.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_clock.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_reset.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexspi.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_power.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexspi.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_power.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_cache.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_reset.h</file>
+            <file>$PROJ_DIR$\..\clock_config.c</file>
+            <file>$PROJ_DIR$\..\clock_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_cache.h</file>
+            <file>$PROJ_DIR$\..\pin_mux.c</file>
+            <file>$PROJ_DIR$\..\hello_world.c</file>
+            <file>$PROJ_DIR$\..\pin_mux.h</file>
+            <file>$PROJ_DIR$\..\board.c</file>
+            <file>$PROJ_DIR$\..\board.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\lists\generic_list.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\debug_console\fsl_debug_console.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\fsl_assert.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\system_MIMXRT685S_cm33.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_manager.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_port_internal.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_port_uart.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_port_uart.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\mpu_armv8.h</file>
+            <file>$PROJ_DIR$\..\..\..\flash_config\flash_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\core_cm33.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_usart.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexcomm.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\MIMXRT685S_cm33.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexcomm.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_gpio.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\system_MIMXRT685S_cm33.h</file>
+            <file>$PROJ_DIR$\..\..\..\flash_config\flash_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\cmsis_compiler.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\debug_console\fsl_debug_console_conf.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\cmsis_version.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\MIMXRT685S_cm33_features.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\iar\startup_MIMXRT685S_cm33.s</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_iopctl.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\str\fsl_str.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\uart\usart_adapter.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_manager.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_gpio.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\cmsis_iccarm.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\debug_console\fsl_debug_console.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\str\fsl_str.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\lists\generic_list.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\fsl_device_registers.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\uart\uart.h</file>
+            <file>$PROJ_DIR$\debug\obj\drivers\fsl_gpio.o</file>
+            <file>$PROJ_DIR$\debug\obj\drivers\fsl_reset.o</file>
+            <file>$PROJ_DIR$\debug\obj\drivers\fsl_usart.o</file>
+            <file>$PROJ_DIR$\debug\obj\flash_config\flash_config.o</file>
+            <file>$PROJ_DIR$\debug\obj\utilities\fsl_debug_console.o</file>
+            <file>$PROJ_DIR$\debug\obj\drivers\fsl_common.o</file>
+            <file>$PROJ_DIR$\debug\obj\drivers\fsl_flexcomm.o</file>
+            <file>$PROJ_DIR$\debug\obj\board\clock_config.o</file>
+            <file>$PROJ_DIR$\debug\obj\component\uart\usart_adapter.o</file>
+            <file>$PROJ_DIR$\debug\obj\utilities\fsl_assert.o</file>
+            <file>$PROJ_DIR$\debug\obj\utilities\fsl_str.o</file>
+            <file>$PROJ_DIR$\debug\obj\drivers\fsl_flexspi.o</file>
+            <file>$PROJ_DIR$\debug\obj\source\hello_world.o</file>
+            <file>$PROJ_DIR$\debug\obj\component\lists\generic_list.o</file>
+            <file>$PROJ_DIR$\debug\obj\drivers\fsl_power.o</file>
+            <file>$PROJ_DIR$\debug\obj\component\serial_manager\serial_manager.o</file>
+            <file>$PROJ_DIR$\debug\obj\component\serial_manager\serial_port_uart.o</file>
+            <file>$PROJ_DIR$\debug\obj\drivers\fsl_clock.o</file>
+            <file>$PROJ_DIR$\debug\obj\device\system_MIMXRT685S_cm33.o</file>
+            <file>$PROJ_DIR$\debug\obj\drivers\fsl_cache.o</file>
+            <file>$PROJ_DIR$\debug\obj\board\board.o</file>
+            <file>$PROJ_DIR$\debug\obj\board\pin_mux.o</file>
+            <file>$PROJ_DIR$\debug\hello_world.out</file>
+            <file>$PROJ_DIR$\debug\obj\startup\startup_MIMXRT685S_cm33.o</file>
+            <file>$PROJ_DIR$\debug\sdk20-app.bin</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\assert.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\debug\obj\startup\startup_MIMXRT685S_cm33.o.rsp</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\iar\iar_lib_power.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_float_setup.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$PROJ_DIR$\MIMXRT685Sxxxx_cm33_ram.icf</file>
+            <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\debug\list\hello_world.map</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_usart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 56</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 32 11 31 52 36 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_common.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 59</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 11 52 36 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_clock.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 11 52 36 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_reset.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 55</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 11 52 36 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexspi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 65</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 8 11 52 36 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_power.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 68</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 9 11 52 36 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_cache.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 73</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 14 4 2 11 52 36 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\clock_config.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 61</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 13 33 41 4 2 9 11 52 36 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\pin_mux.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 75</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 17 33 41 4 2 43 11 52 36 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\hello_world.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 66</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 19 13 17 46 26 53 33 41 4 2 47 11 52 36 21 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\board.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 74</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 19 13 46 26 53 33 41 14 4 2 8 47 9 11 52 36 21 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 76 104</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\components\lists\generic_list.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 67</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 51 33 41 4 2 11 52 36 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\fsl_assert.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 63</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 46 26 53 33 41 4 2 11 52 36 21 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\system_MIMXRT685S_cm33.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 72</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 52 36 84 88 83 81 80 91 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_manager.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 69</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 46 25 26 53 33 41 4 2 11 52 36 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_port_uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 70</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 46 25 26 53 33 41 4 2 11 52 36 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\flash_config\flash_config.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 19 13 37 33 41 4 2 47 11 52 36 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexcomm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 60</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 32 11 52 36 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 47 11 52 36 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\iar\startup_MIMXRT685S_cm33.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 77</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 89</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\str\fsl_str.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 64</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 11 52 36 39 50 84 88 83 86 79 96 81 85 101 97 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\components\uart\usart_adapter.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 62</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 53 33 41 4 2 32 11 31 52 36 84 88 83 86 79 81 85 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\debug_console\fsl_debug_console.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 58</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 46 26 53 33 41 4 2 11 52 36 21 39 50 84 88 83 86 79 81 85 97 82 87 80 92 90 91 93 95</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\debug\hello_world.out</name>
+            <outputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 78</file>
+                </tool>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 104</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 100 74 61 75 67 69 70 62 72 73 71 59 60 65 54 68 55 56 57 66 77 63 58 64 94 99 102 103 98</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\debug\sdk20-app.bin</name>
+            <inputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>flash_debug</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>flash_release</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_usart.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_common.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_common.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_clock.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_clock.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_reset.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexspi.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_power.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexspi.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_power.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_cache.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_reset.h</file>
+            <file>$PROJ_DIR$\..\clock_config.c</file>
+            <file>$PROJ_DIR$\..\clock_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_cache.h</file>
+            <file>$PROJ_DIR$\..\pin_mux.c</file>
+            <file>$PROJ_DIR$\..\hello_world.c</file>
+            <file>$PROJ_DIR$\..\pin_mux.h</file>
+            <file>$PROJ_DIR$\..\board.c</file>
+            <file>$PROJ_DIR$\..\board.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\lists\generic_list.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\debug_console\fsl_debug_console.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\fsl_assert.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\system_MIMXRT685S_cm33.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_manager.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_port_internal.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_port_uart.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_port_uart.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\mpu_armv8.h</file>
+            <file>$PROJ_DIR$\..\..\..\flash_config\flash_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\core_cm33.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_usart.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexcomm.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\MIMXRT685S_cm33.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexcomm.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_gpio.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\system_MIMXRT685S_cm33.h</file>
+            <file>$PROJ_DIR$\..\..\..\flash_config\flash_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\cmsis_compiler.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\debug_console\fsl_debug_console_conf.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\cmsis_version.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\MIMXRT685S_cm33_features.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\iar\startup_MIMXRT685S_cm33.s</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_iopctl.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\str\fsl_str.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\uart\usart_adapter.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_manager.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_gpio.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\cmsis_iccarm.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\debug_console\fsl_debug_console.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\str\fsl_str.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\lists\generic_list.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\fsl_device_registers.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\uart\uart.h</file>
+            <file>$PROJ_DIR$\flash_release\obj\device\system_MIMXRT685S_cm33.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\component\uart\usart_adapter.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\component\serial_manager\serial_port_uart.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\drivers\fsl_cache.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\drivers\fsl_clock.o</file>
+            <file>$PROJ_DIR$\flash_release\list\hello_world.map</file>
+            <file>$PROJ_DIR$\flash_release\obj\startup\startup_MIMXRT685S_cm33.o.rsp</file>
+            <file>$PROJ_DIR$\flash_release\obj\startup\startup_MIMXRT685S_cm33.o</file>
+            <file>$PROJ_DIR$\flash_release\sdk20-app.bin</file>
+            <file>$PROJ_DIR$\flash_release\hello_world.out</file>
+            <file>$PROJ_DIR$\flash_release\obj\component\lists\generic_list.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\component\serial_manager\serial_manager.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\board\board.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\drivers\fsl_common.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\drivers\fsl_flexcomm.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\drivers\fsl_flexspi.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\board\clock_config.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\board\pin_mux.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\utilities\fsl_str.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\utilities\fsl_debug_console.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\drivers\fsl_usart.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\flash_config\flash_config.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\drivers\fsl_reset.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\source\hello_world.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\utilities\fsl_assert.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\drivers\fsl_gpio.o</file>
+            <file>$PROJ_DIR$\flash_release\obj\drivers\fsl_power.o</file>
+            <file>$PROJ_DIR$\MIMXRT685Sxxxx_cm33_flash.icf</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\assert.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\iar\iar_lib_power.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_float_setup.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_usart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 74</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 32 11 31 52 36 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_common.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 67</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 11 52 36 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_clock.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 58</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 11 52 36 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_reset.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 76</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 11 52 36 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexspi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 69</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 8 11 52 36 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_power.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 80</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 9 11 52 36 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_cache.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 14 4 2 11 52 36 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\clock_config.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 70</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 13 33 41 4 2 9 11 52 36 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\pin_mux.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 71</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 17 33 41 4 2 43 11 52 36 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\hello_world.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 77</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 19 13 17 46 26 53 33 41 4 2 47 11 52 36 21 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\board.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 66</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 19 13 46 26 53 33 41 14 4 2 8 47 9 11 52 36 21 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 63 59</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\components\lists\generic_list.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 64</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 51 33 41 4 2 11 52 36 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\fsl_assert.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 78</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 46 26 53 33 41 4 2 11 52 36 21 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\system_MIMXRT685S_cm33.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 54</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 52 36 87 91 86 84 83 93 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_manager.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 65</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 46 25 26 53 33 41 4 2 11 52 36 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_port_uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 56</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 46 25 26 53 33 41 4 2 11 52 36 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\flash_config\flash_config.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 75</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 19 13 37 33 41 4 2 47 11 52 36 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexcomm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 68</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 32 11 52 36 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 79</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 47 11 52 36 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\iar\startup_MIMXRT685S_cm33.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 61</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\str\fsl_str.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 72</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 11 52 36 39 50 87 91 86 89 82 98 84 88 101 99 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\components\uart\usart_adapter.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 55</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 53 33 41 4 2 32 11 31 52 36 87 91 86 89 82 84 88 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\debug_console\fsl_debug_console.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 73</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 46 26 53 33 41 4 2 11 52 36 21 39 50 87 91 86 89 82 84 88 99 85 90 83 94 92 93 95 97</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\flash_release\sdk20-app.bin</name>
+            <inputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 63</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\flash_release\hello_world.out</name>
+            <outputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 62</file>
+                </tool>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 59</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 81 66 70 71 64 65 56 55 54 57 58 67 68 69 79 80 76 74 75 77 61 78 73 72 96 100 102 103</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>load_to_ram</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_usart.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_common.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_common.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_clock.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_clock.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_reset.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexspi.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_power.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexspi.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_power.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_cache.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_reset.h</file>
+            <file>$PROJ_DIR$\..\clock_config.c</file>
+            <file>$PROJ_DIR$\..\clock_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_cache.h</file>
+            <file>$PROJ_DIR$\..\pin_mux.c</file>
+            <file>$PROJ_DIR$\..\hello_world.c</file>
+            <file>$PROJ_DIR$\..\pin_mux.h</file>
+            <file>$PROJ_DIR$\..\board.c</file>
+            <file>$PROJ_DIR$\..\board.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\lists\generic_list.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\debug_console\fsl_debug_console.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\fsl_assert.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\system_MIMXRT685S_cm33.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_manager.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_port_internal.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_port_uart.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_port_uart.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\mpu_armv8.h</file>
+            <file>$PROJ_DIR$\..\..\..\flash_config\flash_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\core_cm33.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_usart.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexcomm.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\MIMXRT685S_cm33.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexcomm.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_gpio.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\system_MIMXRT685S_cm33.h</file>
+            <file>$PROJ_DIR$\..\..\..\flash_config\flash_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\cmsis_compiler.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\debug_console\fsl_debug_console_conf.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\cmsis_version.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\MIMXRT685S_cm33_features.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\iar\startup_MIMXRT685S_cm33.s</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_iopctl.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\str\fsl_str.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\uart\usart_adapter.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_manager.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_gpio.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\cmsis_iccarm.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\debug_console\fsl_debug_console.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\str\fsl_str.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\lists\generic_list.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\fsl_device_registers.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\uart\uart.h</file>
+            <file>$PROJ_DIR$\MIMXRT685Sxxxx_cm33_flash.icf</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\assert.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\iar\iar_lib_power.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_float_setup.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\load_to_ram\Exe\sdk20-app.bin</file>
+            <file>$PROJ_DIR$\load_to_ram\Exe\hello_world.out</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\startup\startup_MIMXRT685S_cm33.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\board\pin_mux.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\board\board.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\board\clock_config.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\component\lists\generic_list.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\startup\startup_MIMXRT685S_cm33.o.rsp</file>
+            <file>$PROJ_DIR$\load_to_ram\List\hello_world.map</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\component\uart\usart_adapter.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\component\serial_manager\serial_port_uart.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\component\serial_manager\serial_manager.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\drivers\fsl_reset.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\drivers\fsl_usart.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\flash_config\flash_config.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\drivers\fsl_flexspi.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\source\hello_world.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\utilities\fsl_assert.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\utilities\fsl_debug_console.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\utilities\fsl_str.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\device\system_MIMXRT685S_cm33.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\drivers\fsl_cache.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\drivers\fsl_common.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\drivers\fsl_flexcomm.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\drivers\fsl_gpio.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\drivers\fsl_power.o</file>
+            <file>$PROJ_DIR$\load_to_ram\Obj\drivers\fsl_clock.o</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_usart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 90</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 32 11 31 52 36 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_common.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 99</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 11 52 36 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_clock.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 103</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 11 52 36 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_reset.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 89</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 11 52 36 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexspi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 92</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 8 11 52 36 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_power.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 102</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 9 11 52 36 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_cache.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 98</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 14 4 2 11 52 36 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\clock_config.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 82</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 13 33 41 4 2 9 11 52 36 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\pin_mux.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 80</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 17 33 41 4 2 43 11 52 36 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\hello_world.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 93</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 19 13 17 46 26 53 33 41 4 2 47 11 52 36 21 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\board.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 81</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 19 13 46 26 53 33 41 14 4 2 8 47 9 11 52 36 21 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 78 85</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\components\lists\generic_list.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 83</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 51 33 41 4 2 11 52 36 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\fsl_assert.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 94</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 46 26 53 33 41 4 2 11 52 36 21 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\system_MIMXRT685S_cm33.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 97</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 52 36 60 64 59 57 56 66 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_manager.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 88</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 46 25 26 53 33 41 4 2 11 52 36 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_port_uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 87</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 46 25 26 53 33 41 4 2 11 52 36 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\flash_config\flash_config.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 91</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 19 13 37 33 41 4 2 47 11 52 36 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexcomm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 100</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 32 11 52 36 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 101</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 47 11 52 36 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\iar\startup_MIMXRT685S_cm33.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 79</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 84</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\str\fsl_str.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 96</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 11 52 36 39 50 60 64 59 62 55 71 57 61 74 72 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\components\uart\usart_adapter.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 86</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 53 33 41 4 2 32 11 31 52 36 60 64 59 62 55 57 61 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\debug_console\fsl_debug_console.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 95</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 46 26 53 33 41 4 2 11 52 36 21 39 50 60 64 59 62 55 57 61 72 58 63 56 67 65 66 68 70</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\load_to_ram\Exe\sdk20-app.bin</name>
+            <inputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 78</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\load_to_ram\Exe\hello_world.out</name>
+            <outputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 77</file>
+                </tool>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 85</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 54 81 82 80 83 88 87 86 97 98 103 99 100 92 101 102 89 90 91 93 79 94 95 96 69 73 75 76</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>release</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_usart.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_common.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_common.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_clock.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_clock.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_reset.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexspi.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_power.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexspi.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_power.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_cache.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_reset.h</file>
+            <file>$PROJ_DIR$\..\clock_config.c</file>
+            <file>$PROJ_DIR$\..\clock_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_cache.h</file>
+            <file>$PROJ_DIR$\..\pin_mux.c</file>
+            <file>$PROJ_DIR$\..\hello_world.c</file>
+            <file>$PROJ_DIR$\..\pin_mux.h</file>
+            <file>$PROJ_DIR$\..\board.c</file>
+            <file>$PROJ_DIR$\..\board.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\lists\generic_list.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\debug_console\fsl_debug_console.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\fsl_assert.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\system_MIMXRT685S_cm33.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_manager.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_port_internal.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_port_uart.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_port_uart.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\mpu_armv8.h</file>
+            <file>$PROJ_DIR$\..\..\..\flash_config\flash_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\core_cm33.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_usart.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexcomm.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\MIMXRT685S_cm33.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexcomm.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_gpio.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\system_MIMXRT685S_cm33.h</file>
+            <file>$PROJ_DIR$\..\..\..\flash_config\flash_config.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\cmsis_compiler.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\debug_console\fsl_debug_console_conf.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\cmsis_version.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\MIMXRT685S_cm33_features.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\iar\startup_MIMXRT685S_cm33.s</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_iopctl.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\str\fsl_str.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\uart\usart_adapter.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_manager.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_gpio.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\CMSIS\Include\cmsis_iccarm.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\debug_console\fsl_debug_console.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\str\fsl_str.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\lists\generic_list.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\fsl_device_registers.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\components\uart\uart.h</file>
+            <file>$PROJ_DIR$\release\sdk20-app.bin</file>
+            <file>$PROJ_DIR$\release\obj\utilities\fsl_debug_console.o</file>
+            <file>$PROJ_DIR$\release\hello_world.out</file>
+            <file>$PROJ_DIR$\release\obj\utilities\fsl_str.o</file>
+            <file>$PROJ_DIR$\release\obj\startup\startup_MIMXRT685S_cm33.o</file>
+            <file>$PROJ_DIR$\release\obj\startup\startup_MIMXRT685S_cm33.o.rsp</file>
+            <file>$PROJ_DIR$\release\list\hello_world.map</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\assert.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\iar\iar_lib_power.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_float_setup.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$PROJ_DIR$\MIMXRT685Sxxxx_cm33_ram.icf</file>
+            <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\release\obj\component\uart\usart_adapter.o</file>
+            <file>$PROJ_DIR$\release\obj\board\pin_mux.o</file>
+            <file>$PROJ_DIR$\release\obj\board\board.o</file>
+            <file>$PROJ_DIR$\release\obj\drivers\fsl_usart.o</file>
+            <file>$PROJ_DIR$\release\obj\flash_config\flash_config.o</file>
+            <file>$PROJ_DIR$\release\obj\source\hello_world.o</file>
+            <file>$PROJ_DIR$\release\obj\utilities\fsl_assert.o</file>
+            <file>$PROJ_DIR$\release\obj\drivers\fsl_gpio.o</file>
+            <file>$PROJ_DIR$\release\obj\component\serial_manager\serial_manager.o</file>
+            <file>$PROJ_DIR$\release\obj\component\lists\generic_list.o</file>
+            <file>$PROJ_DIR$\release\obj\device\system_MIMXRT685S_cm33.o</file>
+            <file>$PROJ_DIR$\release\obj\component\serial_manager\serial_port_uart.o</file>
+            <file>$PROJ_DIR$\release\obj\board\clock_config.o</file>
+            <file>$PROJ_DIR$\release\obj\drivers\fsl_cache.o</file>
+            <file>$PROJ_DIR$\release\obj\drivers\fsl_clock.o</file>
+            <file>$PROJ_DIR$\release\obj\drivers\fsl_common.o</file>
+            <file>$PROJ_DIR$\release\obj\drivers\fsl_flexcomm.o</file>
+            <file>$PROJ_DIR$\release\obj\drivers\fsl_flexspi.o</file>
+            <file>$PROJ_DIR$\release\obj\drivers\fsl_power.o</file>
+            <file>$PROJ_DIR$\release\obj\drivers\fsl_reset.o</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_usart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 87</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 32 11 31 52 36 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_common.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 99</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 11 52 36 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_clock.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 98</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 11 52 36 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_reset.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 103</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 11 52 36 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexspi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 101</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 8 11 52 36 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_power.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 102</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 9 11 52 36 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_cache.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 97</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 14 4 2 11 52 36 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\clock_config.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 96</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 13 33 41 4 2 9 11 52 36 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\pin_mux.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 85</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 17 33 41 4 2 43 11 52 36 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\hello_world.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 89</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 19 13 17 46 26 53 33 41 4 2 47 11 52 36 21 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\board.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 86</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 19 13 46 26 53 33 41 14 4 2 8 47 9 11 52 36 21 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 56 60</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\components\lists\generic_list.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 93</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 51 33 41 4 2 11 52 36 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\fsl_assert.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 90</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 46 26 53 33 41 4 2 11 52 36 21 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\system_MIMXRT685S_cm33.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 94</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 52 36 66 70 65 63 62 72 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_manager.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 92</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 46 25 26 53 33 41 4 2 11 52 36 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\components\serial_manager\serial_port_uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 95</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 46 25 26 53 33 41 4 2 11 52 36 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\flash_config\flash_config.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 88</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 19 13 37 33 41 4 2 47 11 52 36 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_flexcomm.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 100</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 32 11 52 36 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\drivers\fsl_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 91</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 47 11 52 36 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\iar\startup_MIMXRT685S_cm33.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 58</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 59</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\str\fsl_str.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 33 41 4 2 11 52 36 39 50 66 70 65 68 61 77 63 67 81 78 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\components\uart\usart_adapter.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 84</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 53 33 41 4 2 32 11 31 52 36 66 70 65 68 61 63 67 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\..\devices\MIMXRT685S\utilities\debug_console\fsl_debug_console.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 55</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38 48 40 30 28 46 26 53 33 41 4 2 11 52 36 21 39 50 66 70 65 68 61 63 67 78 64 69 62 73 71 72 74 76</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\release\sdk20-app.bin</name>
+            <inputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 56</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\release\hello_world.out</name>
+            <outputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 54</file>
+                </tool>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 60</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 80 86 96 85 93 92 95 84 94 97 98 99 100 101 91 102 103 87 88 89 58 90 55 57 75 79 82 83</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+</project>

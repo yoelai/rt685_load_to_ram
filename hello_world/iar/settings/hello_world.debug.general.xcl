@@ -1,0 +1,15 @@
+"C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\bin\armPROC.dll" 
+
+"C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\bin\armJET.dll" 
+
+"C:\Users\yoeinhor\Downloads\SDK_2_8_2_EVK-MIMXRT685\boards\evkmimxrt685\demo_apps\hello_world\iar\debug\hello_world.out" 
+
+--plugin="C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\bin\armbat.dll" 
+
+--device_macro="C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\config\debugger\NXP\iMXRT6xx_CortexM33.dmac" 
+
+--flash_loader="C:\Users\yoeinhor\Source\repos\sam_tools\IAR\Ver9_10_1\arm\config\flashloader\NXP\FlashIMXRT600_EVK_FLEXSPI.board" 
+
+
+
+

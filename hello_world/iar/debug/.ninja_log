@@ -1,0 +1,26 @@
+# ninja log v5
+1	56	7138041468917386	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/startup/startup_MIMXRT685S_cm33.o	6d5eda827709a63b
+6	5843	7138042147864481	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/board/clock_config.o	f8f2fb83aa51fe69
+45	5909	7138042148069051	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/device/system_MIMXRT685S_cm33.o	b4186440b164fd35
+36	5937	7138042148069051	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/board/pin_mux.o	2c501781c3c41293
+29	5962	7138042148189383	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/component/uart/usart_adapter.o	b7fb6d4ad61b79b1
+16	5990	7138042148189383	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/component/serial_manager/serial_port_uart.o	f3b938be0a832ace
+23	6018	7138042148336649	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/component/lists/generic_list.o	3ce1968a112296db
+11	6049	7138042148189383	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/component/serial_manager/serial_manager.o	d6f6f7b0ddd742ba
+1	6086	7138042148516603	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/board/board.o	33884cceff813cf8
+5955	6358	7138042152982869	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/drivers/fsl_common.o	c5620dc04df89d7c
+6070	6421	7138042153325612	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/flash_config/flash_config.o	defce21fbb1fa063
+5983	6456	7138042153463617	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/drivers/fsl_flexcomm.o	be54dfa9883cb25e
+6010	6488	7138042153205623	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/drivers/fsl_power.o	fa72309df3081ff9
+5874	6522	7138042153325612	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/drivers/fsl_cache.o	ab529f71b3f43284
+6108	6577	7138042154106489	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/drivers/fsl_gpio.o	572b5d4256cfdab4
+6043	6608	7138042154700448	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/drivers/fsl_flexspi.o	5007c21d4fc10c5d
+5929	6631	7138042154649362	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/drivers/fsl_clock.o	478ced8095e3ae6a
+6515	6876	7138042158190408	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/source/hello_world.o	e6a679b09fe6c45d
+6389	6919	7138042158285734	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/drivers/fsl_reset.o	790fa8c2588844d8
+6481	6949	7138042158418477	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/utilities/fsl_assert.o	cad1141657578bfa
+6546	6983	7138042158979106	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/utilities/fsl_debug_console.o	6e40457dd15db1d6
+6449	7019	7138042159480704	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/drivers/fsl_usart.o	f6775f504ee032fe
+6600	7039	7138042159497442	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/obj/utilities/fsl_str.o	b3bc05604ba3eaea
+7058	7163	7138042161196452	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/hello_world.out	81a9c2ee98322006
+7194	7207	7138042161670652	C:/Users/yoeinhor/Downloads/SDK_2_8_2_EVK-MIMXRT685/boards/evkmimxrt685/demo_apps/hello_world/iar/debug/sdk20-app.bin	c0f4700aa975e743
